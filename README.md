@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 # Tailwind install
 
-1° passo -> npm i -D tailwindcss postcss autoprefixer
-2° passo -> npx tailwindcss init -p
+<p>1° passo -> npm i -D tailwindcss postcss autoprefixer</p>
+<p>2° passo -> npx tailwindcss init -p</p>
